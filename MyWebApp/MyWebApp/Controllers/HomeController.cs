@@ -10,6 +10,7 @@ namespace MyWebApp.Controllers
     {
         public ActionResult Index()
         {
+            string SimplePassword = "";
             return View();
         }
 
